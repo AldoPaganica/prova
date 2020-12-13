@@ -17,6 +17,7 @@ public class ContinuaFino {
 	
 	System.out.println(somma);
 	System.out.println("Ciao aldo! :)");
+	System.out.println("proviamo");
 	}
 	
 }
