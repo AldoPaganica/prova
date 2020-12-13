@@ -16,6 +16,7 @@ public class ContinuaFino {
 	} while (x);
 	
 	System.out.println(somma);
+	System.out.println("Ciao aldo! :)");
 	}
 	
 }
